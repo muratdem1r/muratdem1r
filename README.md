@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm Murat Demir, a Frontend Developer based in Türkiye.
+I'm [Murat Demir](https://www.linkedin.com/in/muratdem1r/), a Frontend Developer based in Türkiye.
+
+I've been writing code since 2018, graduated as a Computer Engineer (2022), and have 5 months of Fullstack and 2+ years of Frontend development experience.
 
 I love building clean, scalable and modern web applications.
 
 My main tech stack includes React, Next.js, TypeScript, Tailwind CSS and GraphQL.
-I also enjoy working with AWS, Supabase, Storyblok, and crafting smooth front-end experiences.
+I also enjoy working with AWS, Supabase, Storyblok and crafting smooth frontend experiences.
 
 I’ve worked on various projects from building optimized data tables with saved filters to creating custom Next.js applications with strong UI/UX foundations. I care about performance, clarity and writing maintainable code.
 
